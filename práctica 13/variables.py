@@ -1,8 +1,8 @@
 #Soy un comentario
 #Strings, cadenas, textos
 #numericos int  (integer, entero) float (punto flotante)
-nombre = "Stanley"
-apellido = "Polio"
+nombre = "Carlos"
+apellido = "Gomez"
 edad = "17"
 
 print(nombre, apellido, edad)
